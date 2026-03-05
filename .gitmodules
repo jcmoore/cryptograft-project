@@ -1,0 +1,21 @@
+[submodule "modules/github.com/jedisct1/libsodium/v/1"]
+	path = modules/github.com/jedisct1/libsodium/v/1
+	url = https://github.com/jedisct1/libsodium.git
+[submodule "modules/github.com/utelle/SQLite3MultipleCiphers/v/2"]
+	path = modules/github.com/utelle/SQLite3MultipleCiphers/v/2
+	url = https://github.com/utelle/SQLite3MultipleCiphers.git
+[submodule "modules/github.com/orbitinghail/graft/v/0"]
+	path = modules/github.com/orbitinghail/graft/v/0
+	url = https://github.com/orbitinghail/graft.git
+[submodule "modules/github.com/tursodatabase/agentfs/v/0"]
+	path = modules/github.com/tursodatabase/agentfs/v/0
+	url = https://github.com/tursodatabase/agentfs.git
+[submodule "modules/github.com/electric-sql/pglite/v/0"]
+	path = modules/github.com/electric-sql/pglite/v/0
+	url = https://github.com/electric-sql/pglite.git
+[submodule "modules/github.com/davidmuggleton/pglite-encrypted-fs/v/0"]
+	path = modules/github.com/davidmuggleton/pglite-encrypted-fs/v/0
+	url = https://github.com/davidmuggleton/pglite-encrypted-fs.git
+[submodule "modules/github.com/seaweedfs/seaweedfs/v/4"]
+	path = modules/github.com/seaweedfs/seaweedfs/v/4
+	url = https://github.com/seaweedfs/seaweedfs.git
