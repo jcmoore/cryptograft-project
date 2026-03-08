@@ -22,3 +22,6 @@
 [submodule "modules/github.com/rhashimoto/wa-sqlite/v/1"]
 	path = modules/github.com/rhashimoto/wa-sqlite/v/1
 	url = https://github.com/rhashimoto/wa-sqlite.git
+[submodule "modules/github.com/ferrilab/bitvec/v/1"]
+	path = modules/github.com/ferrilab/bitvec/v/1
+	url = https://github.com/ferrilab/bitvec.git
