@@ -13,9 +13,9 @@
 [submodule "modules/github.com/electric-sql/pglite/v/0"]
 	path = modules/github.com/electric-sql/pglite/v/0
 	url = https://github.com/electric-sql/pglite.git
-[submodule "modules/github.com/davidmuggleton/pglite-encrypted-fs/v/0"]
-	path = modules/github.com/davidmuggleton/pglite-encrypted-fs/v/0
-	url = https://github.com/davidmuggleton/pglite-encrypted-fs.git
+[submodule "modules/github.com/jcmoore/pglite-cryptograft-afs/v/0"]
+	path = modules/github.com/jcmoore/pglite-cryptograft-afs/v/0
+	url = https://github.com/jcmoore/pglite-cryptograft-afs.git
 [submodule "modules/github.com/seaweedfs/seaweedfs/v/4"]
 	path = modules/github.com/seaweedfs/seaweedfs/v/4
 	url = https://github.com/seaweedfs/seaweedfs.git
